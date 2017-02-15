@@ -13,4 +13,4 @@ from selenium.webdriver.common.keys import Keys
 import unittest
 
 
-print 'hello !!'
+print 'setup the environment !!'
